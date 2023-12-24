@@ -1,0 +1,134 @@
+﻿@using WebSite_DKTKViecLam.Models;
+@model List<BAIDANG>
+<!DOCTYPE html>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<html ur;>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thêm Bài Đăng</title>
+</head>
+<body style="background-image:url(/Hinh//Background.jpg); background-size:cover;font-size:16px;">
+    <div class="container" style="margin-left:25%;padding-bottom:50px">
+        <div class="row" style="margin-top:3%;">
+            <form action="/DoanhNghiep/Them_BaiDang" method="post" style="max-width:650px;background: rgba(0,0,0,0.8);opacity:0.8;flex-grow:1;padding: 10px 15px 30px 45px;box-shadow: 0px 0px 17px 2px rgba(255, 255, 255, 0.8)  ;">
+                <table style="color:white;margin-left:40px; font-family:Oswald;font-weight:bold">
+                    <tr>
+                        <td><h2 style="text-align:center"><b>Thêm Bài Đăng</b></h2></td>
+                    </tr>
+                    <tr>
+                        <td>Tên bài đăng:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" placeholder="Nhập tên bài đăng" name="tenbd" style="width:430px;color:black;"></td>
+                    </tr>
+                    <tr>
+                        <td>Mã Doanh Nghiệp:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" placeholder="Nhập mã doanh nghiệp" name="madn" value="@Session["maDN"]"  style="width:430px;color:black;"></td>
+                    </tr>
+                    <tr>
+                        <td>Mã loại công việc:</td>
+                    </tr>
+                    <tr>
+                        @*<td><input type="text" placeholder="Nhập mã loại công việc" name="mloai" style="width:430px;color:black;"></td>*@
+                        <td>
+                            <select id="Job Code" name="mloai">
+                                <option value="">Chọn Loại Công Việc</option>
+                                <option value="L001">Công nghệ thực phẩm</option>
+                                <option value="L002">Đảm bảo chất lượng và an toàn thực phẩm</option>
+                                <option value="L003">Công nghệ chế biến thuỷ sản</option>
+                                <option value="L004">Kế toán</option>
+                                <option value="L005">Tài chính - Ngân hàng</option>
+                                <option value="L006">Quản trị kinh doanh</option>
+                                <option value="L007">Kinh doanh quốc tế</option>
+                                <option value="L008">Luật kinh tế</option>
+                                <option value="L009">Khoa học dinh dưỡng và ẩm thực</option>
+                                <option value="L010">Khoa học chế biến món ăn</option>
+                                <option value="L011">Quản trị dịch vụ du lịch và lữ hành</option>
+                                <option value="L012">Quản trị nhà hàng và dịch vụ ăn uống</option>
+                                <option value="L013">Quản trị khách sạn</option>
+                                <option value="L014">Ngôn ngữ Anh</option>
+                                <option value="L015">Ngôn ngữ Trung Quốc</option>
+                                <option value="L016">Công nghệ thông tin</option>
+                                <option value="L017">An toàn thông tin</option>
+                                <option value="L018">Công nghệ chế tạo máy</option>
+                                <option value="L019">Công nghệ kỹ thuật điện, điện tử</option>
+                                <option value="L020">Công nghệ kỹ thuật cơ điện tử</option>
+                                <option value="L021">Công nghệ kỹ thuật điều khiển và tự động hóa</option>
+                                <option value="L022">Công nghệ kỹ thuật hoá học</option>
+                                <option value="L023">Công nghệ vật liệu</option>
+                                <option value="L024">Công nghệ dệt, may</option>
+                                <option value="L025">Công nghệ kỹ thuật môi trường</option>
+                                <option value="L026">Quản lý tài nguyên và môi trường</option>
+                                <option value="L027">Công nghệ sinh học</option>
+                                <option value="L028">Kinh doanh thời trang và dệt may</option>
+                                <option value="L029">Quản trị kinh doanh thực phẩm</option>
+                                <option value="L030">Marketing</option>
+                                <option value="L031">Kỹ thuật nhiệt</option>
+                                <option value="L032">Công nghệ tài chính</option>
+                                <option value="L033">Khoa học dữ liệu</option>
+                                <option value="L034">Thương mại điện tử</option>
+                            </select
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Mô tả:</td>
+                    </tr>
+                    <tr>
+                        @*<td><input type="text" placeholder="Nhập mô tả" name="mta" style="width:430px;color:black;"></td>*@
+                        <td><textarea type="text" placeholder="Nhập mô tả" name="mta" style="width:430px;color:black;"></textarea></td>
+                    </tr>
+                    <tr>
+                        <td>Phúc lợi:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" placeholder="Nhập phúc lợi" name="ploi" style="width:430px;color:black;"></td>
+                    </tr>
+                    <tr>
+                        <td>Vị trí:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" placeholder="Nhập vị trí" name="vtri" style="width:430px;color:black;"></td>
+                    </tr>
+                    <tr>
+                        <td>Kinh nghiệm:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" placeholder="Nhập kinh nghiệm" name="knghiem" style="width:430px;color:black;"></td>
+                    </tr>
+                    <tr>
+                        <td>Độ tuổi làm việc:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" placeholder="Nhập độ tuổi làm việc" name="dtlviec" style="width:430px;color:black;"></td>
+                    </tr>
+                    <tr>
+                        <td>Mức lương:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" placeholder="Nhập mức lương" name="mluong" style="width:430px;color:black;"></td>
+                    </tr>
+                    <tr>
+                        <td>Ngày đăng bài:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="date" name="ndbai" style="width:430px;color:black;"></td>
+                    </tr>
+                    <tr>
+                        <td>Yêu cầu:</td>
+                    </tr>
+                    <tr>
+                        <td><input type="text" placeholder="Nhập yêu cầu" name="ycau" style="width:430px;color:black;"></td>
+                    </tr>
+                </table>
+                <div style="margin-top:15px;margin-left:40px">
+                    <button type="submit" class="button-them " style="text-align:center;width:430px;"><b>Thêm bài đăng</b></button>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

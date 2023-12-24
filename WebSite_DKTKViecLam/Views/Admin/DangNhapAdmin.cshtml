@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/bootstrap/css/reset.css" rel="stylesheet" />
+<link href="~/bootstrap/css/App-DangNhap.css" rel="stylesheet" />   
+<link href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Đăng nhập dành cho Admin</title>
+    <style>
+        .pointer {cursor: pointer;}
+    </style>
+</head>
+<body >
+    <div class="container-fluid mt-3">
+        <div class="row">
+            <div class="col-3">
+                <h3><a href="javascript:history.back()" style="color:white"><input type="button" value="Quay lại" class="button-trangchu"></a></h3>
+            </div>
+        </div>
+        <div class="row" id="wrapper">
+            <form action="/Admin/DangNhapAdmin" method="post" style="margin-left:600px;" id="form-login-ad">
+                <h2 style="color:white;margin-left:30%;"><b>Đăng Nhập</b></h2>
+                <h5 style="color:white;margin-left:16%;">Chào Mừng Bạn Đến Với Triplet-JS</h5>
+                <div class="form-group">
+                    <table>
+                        <tr>
+                            <th><i class="far fa-user"></i></th>
+                            <th><input type="email" class="form-input" id="email" placeholder="Nhập username" name="email" style="width:430px;color:white;"></th>
+                        </tr>
+                    </table>
+                </div>
+                <br />
+                <div class="form-group">
+                    <i class="fas fa-key"></i>
+                    <input type="password" class="form-input" id="pwd" placeholder="Nhập mật khẩu" name="pswd" style="width:430px;color:white;">
+                    <i id="eye" class="pointer far fa-eye" style="width:25.75px;"></i>
+                </div>
+                <div class="col-md-12 checkError">
+                    @Html.ValidationSummary()
+                </div>
+                <br />
+                <div class="form-check mb-3">
+                    <label class="form-check-label">
+                        <input class="form-check-input" type="checkbox" name="remember"><a style="color:white">Lưu mật khẩu</a>
+                    </label>
+                    <a href="#" style="color:white"><input type="button" value="Quên Mật Khẩu" class="QMK-ad"></a>
+                </div>
+                <div>
+                    <input type="submit" value="Đăng nhập" class="form-submit" >
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="~/bootstrap/js/App-DN-JS.js"></script>
+

@@ -1,0 +1,65 @@
+﻿@using WebSite_DKTKViecLam.Models;
+@model WebSite_DKTKViecLam.Models.NGUOIUNGTUYEN
+<!DOCTYPE html>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Textstyle.css" rel="stylesheet" />
+<link href="~/bootstrap/css/StyleText.css" rel="stylesheet" />
+<html ur;>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>XÓA NGƯỜI ỨNG TUYỂN</title>
+</head>
+<body style="background-image:url(/Hinh//Background.jpg); background-size:cover;font-size:16px;">
+    <div class="container">
+        <div class="row" style="margin-top:10%;">
+            <h2 class="col-12 text-center glow-text" style="color:white"><b>NGưỜI ỨNG TUYỂN MUỐN XÓA</b></h2>
+            <form action="/Admin/Xoa_UngVien" method="post" style="max-width:100%;background: rgba(0,0,0,0.8);opacity:0.8;flex-grow:1;padding: 10px 15px 30px 10px;box-shadow: 0px 0px 17px 2px rgba(255, 255, 255, 0.8)  ;">
+                <div class="col-12 text-center">
+                    <input type="hidden" name="MaNUT" value="@Model.MaNUT" />
+                    <table class="table" border="3" style="color:white">
+                        <tr>
+                            <th>Mã ứng viên</th>
+                            <td>@Model.MaNUT</td>
+                        </tr>
+                        <tr>
+                            <th>Họ tên ứng viên</th>
+                            <td>@Model.Hoten</td>
+                        </tr>
+                        <tr>
+                            <th>Địa chỉ</th>
+                            <td>@Model.Diachi</td>
+                        </tr>
+                        <tr>
+                            <th>SĐT</th>
+                            <td>@Model.SDT</td>
+                        </tr>
+                        <tr>
+                            <th>Email</th>
+                            <td>@Model.Email</td>
+                        </tr>
+                        <tr>
+                            <th>Link CV</th>
+                            <td>@Model.CV_NUT</td>
+                        </tr>
+                        <tr>
+                            <th>Ngày sinh</th>
+                            <td>@Model.Ngaysinh</td>
+                        </tr>
+                        <tr>
+                            <th>Giới tính</th>
+                            <td>@Model.Gioitinh</td>
+                        </tr>
+                    </table>
+                    <button type="submit" class="btn btn-danger">XÓA</button>
+                    <a href="/Admin/QL_UngVien" class="btn btn-dark">CANCEL</a>
+                </div>
+            </form>
+        </div>
+</body>
+</html>
+
+
+
+

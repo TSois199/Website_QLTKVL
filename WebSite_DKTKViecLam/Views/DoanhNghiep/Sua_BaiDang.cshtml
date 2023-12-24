@@ -1,0 +1,112 @@
+﻿@model WebSite_DKTKViecLam.Models.BAIDANG
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<link href="~/bootstrap/css/StyleSuaBaiDang.css" rel="stylesheet" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Sửa Bài Đăng</title>
+</head>
+<body style="background-image:url(/Hinh//Background.jpg); background-size:cover; font-size:16px;color:white">
+    @using (Html.BeginForm())
+    {
+        <div id="Wrapper">
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal" id="form-luu">
+                <h1>SỬA BÀI ĐĂNG</h1>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.MaBD)
+
+                <div class="form-group" style="text-align:center" ;>
+                    <label class="glowing-text" style="text-align:left">Tên bài đăng</label><br />
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.TenBD, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.TenBD, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="text-align:center" ;>
+                    <label class="glowing-text" style="text-align:left">Mô tả</label><br />
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Mota, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Mota, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="text-align:center" ;>
+                    <label class="glowing-text" style="text-align:left">Phúc lợi</label><br />
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Phucloi, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Phucloi, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="text-align:center" ;>
+                    <label class="glowing-text" style="text-align:left">Vị trí</label><br />
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Vitri, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Vitri, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="text-align:center" ;>
+                    <label class="glowing-text" style="text-align:left">Kinh nghiệm</label><br />
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Kinhnghiem, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Kinhnghiem, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="text-align:center" ;>
+                    <label class="glowing-text" style="text-align:left">Độ tuổi làm việc</label><br />
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Dotuoilamviec, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Dotuoilamviec, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="text-align:center" ;>
+                    <label class="glowing-text" style="text-align:left">Mức lương</label><br />
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Mucluong, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Mucluong, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="text-align:center" ;>
+                    <label class="glowing-text" style="text-align:left">Ngày đăng bài</label><br />
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Ngaydangbai, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Ngaydangbai, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group" style="text-align:center" ;>
+                    <label class="glowing-text" style="text-align:left">Yêu cầu</label><br />
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Yeucau, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Yeucau, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <br />
+                <div class="checkError">
+                    @Html.ValidationSummary()
+                </div>
+                <div class="col-md-offset-2 col-md-10" style="text-align:center">
+                    <input type="submit" value="Lưu" class="button-luu" style=" width: 200px;height:50px" />
+                </div>
+                <div class="col-md-offset-2 col-md-10" style="text-align:center">
+                    <h3><a href="/DoanhNghiep/IndexDN" style="color:white;width:200px;height:50px"><input type="button" value="Quay Lại " class="button-quaylai"></a></h3>
+                </div>
+            </div>
+        </div>
+    }
+</body>
+</html>

@@ -1,0 +1,513 @@
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\Nam 4\No SQL\Testt\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Web\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\Nam 4\Do_An_Tot_Nghiep\tyyy\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\Nam 4\Do_An_Tot_Nghiep\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_0811_0157\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\12_11-19-55\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\DoAnTotNghiep\Web\WebTung_1211_23h19p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_00h07p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_14h10p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\14_11-16-03\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1411_16h23p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1611_09h55p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\16_11-12-21\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-9-45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_10h36p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1711_14h45p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\17_11-20_00\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\DoAnTotNghiep\Web\WebTung_1811_10h51p\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\Code\19_11-19_45\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\Microsoft.Web.Infrastructure.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.AssemblyReference.cache
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CoreCompileInputs.cache
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csproj.CopyComplete
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.Mvc.dll
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.xml
+D:\Nam 4\DoAnTotNghiep\DoAn_Website_DangKyVaTimKiemViecLam\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll.config
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\WebSite_DKTKViecLam.pdb
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.Mvc.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\PagedList.Mvc.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.dll
+C:\Users\ADMIN\Desktop\du_lieu_hoc\_Do_an_tot_nghiep\final\Source code\Website\WebSite_DKTKViecLam\WebSite_DKTKViecLam\obj\Debug\WebSite_DKTKViecLam.pdb

@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "Duyet_BD";
+}
+@using WebSite_DKTKViecLam.Models;
+@model DUYET
+<!DOCTYPE html>
+<link href="~/bootstrap/css/App-DangNhap.css" rel="stylesheet" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Duyệt Bài Đăng</title>
+</head>
+<body>
+    <div class="container-fluid mt-3">
+        <div class="row" id="wrapper">
+            <form action="/Admin/Duyet_BD_OK" method="post" style="margin-left:550px;margin-top:15%" id="form-login-dn-uv">
+                <h2 style="color:white;text-align:center"><b>Chắc chắc duyệt?</b></h2>
+                <div class="form-group">
+                    <table>
+                        <tr>
+                            <div style="color:white">Ma Bai Dang</div>
+                        </tr>
+                        <tr>
+                            <th><input type="text" class="form-input" name="maBD" value="@Session["mabd"]" style="width:500px;color:white;"></th>
+                        </tr>
+                    </table>
+                </div>
+                <div class="form-group">
+                    <table>
+                        <tr>
+                            <div style="color:white">Mã AD</div>
+                        </tr>
+                        <tr>
+                            <th><input type="text" class="form-input" name="maAD" value="@Session["maAD"]" style="width:500px;color:white;"></th>
+                        </tr>
+                    </table>
+                </div>
+                <div>
+                    <input type="submit" value="Duyệt" class="form-submit" style="background-color:orange">
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
+

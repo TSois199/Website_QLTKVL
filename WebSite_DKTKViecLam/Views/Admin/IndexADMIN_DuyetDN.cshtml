@@ -1,0 +1,117 @@
+﻿
+@{
+    ViewBag.Title = "QL_DoanhNghiep";
+    Layout = "~/Views/Shared/_LayoutPage_Ad.cshtml";
+}
+@using WebSite_DKTKViecLam.Models;
+@model List<DOANHNGHIEP>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<link href="~/bootstrap/css/TimKiem_Search.css" rel="stylesheet" />
+<div class="container-fluid">
+    <h2 class="text-center"><b>DANH SÁCH DOANH NGHIỆP ĐANG CHỜ DUYỆT</b></h2>
+    <div class="row" style="padding-top: 10px; padding-bottom: 10px;">
+
+        <form class="example" action="/Admin/XL_TimKiemDN_ChoDuyet" style="margin:auto" method="post">
+            <div class="row">
+                <div class="col-3">
+                    <input type="text" placeholder="Tìm kiếm theo mã doanh nghiệp" name="maDN">
+                </div>
+                <div class="col-3">
+                    <input type="text" placeholder="Tìm kiếm theo tên doanh nghiệp" name="tenDN">
+                </div>
+                <div class="col-3">
+                    <input type="text" placeholder="Tìm kiếm theo email doanh nghiệp" name="emailDN">
+
+                </div>
+                <div class="col-3">
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="row" style="margin-top:50px">
+        <table class="table table-bordered  table-hover" style="border: 3px solid; border-color:black">
+            <thead style="color:white">
+                <tr style="background-color: black; text-align: center; font-weight: bold;">
+                    <td>
+                        MaDN
+                    </td>
+                    <td>
+                        Tên DN
+                    </td>
+                    <td>
+                        Địa chỉ
+                    </td>
+                    <td>
+                        Email
+                    </td>
+                    <td>
+                        SDT
+                    </td>
+                    <td>
+                        Năm Thành Lập
+                    </td>
+                    <td>
+                        Tỉnh Thành
+                    </td>
+                    <td>
+                        Password
+                    </td>
+                    <td>
+                        Trạng Thái Doanh Nghiệp
+                    </td>
+                    <td>Chức Năng</td>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    if (item.Trangthai_DN.ToLower() == "đã duyệt")
+                    {
+                        continue;
+                    }
+                    else
+                    {
+                        <tr style="text-align: center; font-weight: bold;">
+                            <td style="background-color:lightgray">
+                                @Html.DisplayFor(modelItem => item.MaDN)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TenDN)
+                            </td>
+                            <td style="background-color:lightgray">
+                                @Html.DisplayFor(modelItem => item.Diachi)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Email)
+                            </td>
+                            <td style="background-color:lightgray">
+                                @Html.DisplayFor(modelItem => item.SDT)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Namthanhlap)
+                            </td>
+                            <td style="background-color:lightgray">
+                                @Html.DisplayFor(modelItem => item.Tinhthanh)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Password_DN)
+                            </td>
+                            <td style="background-color:lightgray">
+                                @Html.DisplayFor(modelItem => item.Trangthai_DN)
+                            </td>
+                            <td>
+                                <a href="/Admin/Xoa_DoanhNghiep/@item.MaDN"><input type="button" value="Xóa doanh nghiệp" class="button-them "></a><br />
+                                <a href="/Admin/Duyet_DN/@item.MaDN"><input type="button" value="Duyệt doanh nghiệp" class="button-them "></a><br />
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>
+

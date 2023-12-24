@@ -1,0 +1,146 @@
+﻿
+@{
+    ViewBag.Title = "QL_BaiDang";
+    Layout = "~/Views/Shared/_LayoutPage_Ad.cshtml";
+}
+@using WebSite_DKTKViecLam.Models;
+@model List<BAIDANG>
+
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<link href="~/bootstrap/css/TimKiem_Search.css" rel="stylesheet" />
+
+<div class="container-fluid">
+    <h2 class="text-center"><b>DANH SÁCH BÀI ĐĂNG</b></h2>
+    <div class="row" style="padding-top: 10px; padding-bottom: 10px;">
+
+        <form class="example" action="/Admin/XL_TimKiemBD" style="margin:auto" method="post">
+            <div class="row">
+                <div class="col-3">
+                    <input type="text" placeholder="Tìm kiếm theo mã bài đăng" name="maBD">
+                </div>
+                <div class="col-3">
+                    <input type="text" placeholder="Tìm kiếm theo tên bài đăng" name="tenBD">
+                </div>
+                <div class="col-3">
+                    <input type="text" placeholder="Tìm kiếm theo tên doanh nghiệp" name="tenDN">
+
+                </div>
+                <div class="col-3">
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="row justify-content-center">
+        <br>
+        <table class="table table-hover table-bordered " style="border: 5px solid; border-color:black">
+            <thead style="color:white">
+                <tr style="background-color: black; text-align: center; font-weight: bold;">
+                    <th>
+                        Mã bài đăng
+                    </th>
+                    <th>
+                        Tên bài đăng
+                    </th>
+                    <th>
+                        Mã doanh nghiệp
+                    </th>
+                    <th>
+                        Mã loại công việc
+                    </th>
+                    <th>
+                        Mô tả
+                    </th>
+                    <th>
+                        Phúc lợi
+                    </th>
+                    <th>
+                        Vị trí
+                    </th>
+                    <th>
+                        Kinh nghiệm
+                    </th>
+                    <th>
+                        Độ tuổi làm việc
+                    </th>
+                    <th>
+                        Mức lương
+                    </th>
+                    <th>
+                        Ngày đăng bài
+                    </th>
+                    <th>
+                        Yêu cầu
+                    </th>
+                    <th>
+                        Trạng thái
+                    </th>
+                    <td>Chức Năng</td>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    if (item.Trangthai_BD.ToLower() == "chưa duyệt")
+                    {
+                        continue;
+                    }
+                    else
+                    {
+                        <tr style="text-align: center; font-weight: bold;">
+                            <td style="background-color:lightgray">
+                                @Html.DisplayFor(modelItem => item.MaBD)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.TenBD)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.MaDN)
+                            </td>
+                            <td style="background-color:lightgray">
+                                @Html.DisplayFor(modelItem => item.Maloai)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Mota)
+                            </td>
+                            <td style="background-color:lightgray">
+                                @Html.DisplayFor(modelItem => item.Phucloi)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Vitri)
+                            </td>
+                            <td style="background-color:lightgray">
+                                @Html.DisplayFor(modelItem => item.Kinhnghiem)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Dotuoilamviec)
+                            </td>
+                            <td style="background-color:lightgray">
+                                @Html.DisplayFor(modelItem => item.Mucluong)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Ngaydangbai)
+                            </td>
+                            <td style="background-color:lightgray">
+                                @Html.DisplayFor(modelItem => item.Yeucau)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Trangthai_BD)
+                            </td>
+                            <td>
+                                <a href="/Admin/XemChiTietBaiDang_AD/@item.MaBD"><input type="button" value="Chi Tiết Bài Đăng" class="button-them "></a>
+                                <a href="/Admin/Xoa_BaiDang_AD/@item.MaBD"><input type="button" value="Xóa Bài Đăng" class="button-them "></a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+

@@ -1,0 +1,95 @@
+﻿@model WebSite_DKTKViecLam.Models.NGUOIUNGTUYEN
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thay thông tin ứng viên</title>
+</head>
+<body style="background-image:url(/Hinh//Background.jpg); background-size:cover; font-size:16px;color:white">
+    @using (Html.BeginForm())
+    {
+        <div id="Wrapper">
+            @Html.AntiForgeryToken()
+            <div class="form-horizontal" id="form-luu">
+                <center><h1>Thay Thông Tin Cá Nhân</h1></center>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.MaNUT)
+
+                <center>
+                    <div class="form-group">
+                        <table>
+                            <tr>
+                                <td>Họ và tên:</td>
+                                <td>
+                                    @Html.EditorFor(model => model.Hoten, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.Hoten, "", new { @class = "text-danger" })
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Đia chỉ:</td>
+                                <td>
+                                    @Html.EditorFor(model => model.Diachi, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.Diachi, "", new { @class = "text-danger" })
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Số điện thoại:</td>
+                                <td>
+                                    @Html.EditorFor(model => model.SDT, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.SDT, "", new { @class = "text-danger" })
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Link CV:</td>
+                                <td>
+                                    @Html.EditorFor(model => model.CV_NUT, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.CV_NUT, "", new { @class = "text-danger" })
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Ngày sinh:</td>
+                                <td>
+                                    @Html.EditorFor(model => model.Ngaysinh, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.Ngaysinh, "", new { @class = "text-danger" })
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Giới tính:</td>
+                                <td>
+                                    @Html.DropDownListFor(model => model.Gioitinh, new List<SelectListItem>
+                                    {
+                                        new SelectListItem { Text = "Nam", Value = "Nam" },
+                                        new SelectListItem { Text = "Nữ", Value = "Nữ" }
+                                    }, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.Gioitinh, "", new { @class = "text-danger" })
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="checkError">
+                        @Html.ValidationSummary()
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Lưu" class="button-luu " style=" width: 30%;height:30px" />
+                        </div>
+                    </div>
+                    <br />
+                    <h3><a href="javascript:history.back()" style="color:white;width:200px;height:50px"><input type="button" value="Quay Lại " class="button-quaylai"></a></h3>
+                </center>
+
+                <br />
+
+            </div>
+        </div>
+    }
+</body>
+</html>

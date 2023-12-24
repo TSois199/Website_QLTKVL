@@ -1,0 +1,57 @@
+﻿@model IEnumerable<WebSite_DKTKViecLam.Models.LOAICONGVIEC>
+
+@{
+    ViewBag.Title = "DS_CongViec";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<style>
+    table {
+        width: 50%;
+        border-collapse: collapse;
+        border: 1px solid black;
+        margin-left: 25%;
+    }
+
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid black;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+</style>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Danh Sách Công Việc</title>
+</head>
+<body>
+    <a href="javascript:history.back()"><button class="btn btn-danger w-25 mt-3"><b>Quay Lại </b></button></a>
+    <center><h2>Danh Sách Công Việc</h2></center>
+    <div class="container-fluid" style="margin-top:40px;margin-bottom:20px;">
+        <table >
+            <tr>
+                <td style="text-align:center;font-weight:bold">Mã Loại Công Việc</td>
+                <td style="font-weight:bold">Tên Công Việc</td>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td style="text-align:center">@item.Maloai</td>
+                    <td>@item.Tenloai</td>
+                </tr>
+            }
+        </table>
+
+
+    </div>
+</body>
+</html>

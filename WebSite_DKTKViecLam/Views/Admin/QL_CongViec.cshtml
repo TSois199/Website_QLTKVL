@@ -1,0 +1,61 @@
+﻿@*@model WebSite_DKTKViecLam.Models.LOAICONGVIEC*@
+@{
+    ViewBag.Title = "QL_CongViec";
+    Layout = "~/Views/Shared/_LayoutPage_Ad.cshtml";
+}
+
+@using WebSite_DKTKViecLam.Models;
+@model List<LOAICONGVIEC>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<div class="container ">
+    <h2 class="text-center"><b>DANH SÁCH LOẠI CÔNG VIỆC</b></h2>
+
+    <div class="row">
+        <br />
+        <div>
+            <a href="/Admin/Them_Congviec"><input type="button" value="Thêm công việc" class="button-them"></a>
+        </div>
+        <br />
+        <br />
+        <br />
+        <table class="table table-hover table-bordered " style="border: 3px solid; border-color:black">
+            <thead style="color:white">
+                <tr style="background-color: black; text-align: center; font-weight: bold;">
+                    <th>
+                        Mã loại
+                    </th>
+                    <th>
+                        Tên loại
+                    </th>
+                    <th>
+                        Ảnh công việc
+                    </th>
+                    <th> Chức năng</th>
+                </tr>
+            </thead>
+            <tbody style="text-align: center; font-weight: bold;">
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.Maloai
+                        </td>
+                        <td>
+                            @item.Tenloai
+                        </td>
+                        <td>
+                            <img style="width:150px;height:100px" src="~/HinhAnhBaiDang/@item.Anh_Cviec" />
+                        </td>
+                        <td>
+                            <a href="/Admin/Sua_LoaiCongviec/@item.Maloai"><input type="button" value="Sửa công việc" class="button-them "></a>
+                            <a href="/Admin/Xoa_LoaiCongviec/@item.Maloai"><input type="button" value="Xóa loại công việc" class="button-them "></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

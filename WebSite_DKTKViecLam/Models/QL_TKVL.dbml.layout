@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 15.125" name="QL_TKVL">
+  <DataContextMoniker Name="/QL_TKVLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8a66c4a4-b8f7-4b08-a132-74e0842e662d" absoluteBounds="3.5, 3, 2, 3.3093082682291657">
+      <DataClassMoniker Name="/QL_TKVLDataContext/BAIDANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9f58c096-e31f-4aeb-a2a2-4ff05975b416" absoluteBounds="3.515, 3.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fc27cf67-8744-4b39-8d43-82567f348df7" absoluteBounds="3.5, 12.5, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/QL_TKVLDataContext/TK_Admin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="50f4a952-14f7-4db1-8aae-9f914cb167ef" absoluteBounds="3.515, 12.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fa1c4f7f-da63-4523-94d5-fd64581598a7" absoluteBounds="0.75, 7.375, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/QL_TKVLDataContext/DOANHNGHIEP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d2d64e41-9d3f-42da-83d7-d447714aebe4" absoluteBounds="0.765, 7.835, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c38b6136-063c-43a6-8f9c-6e459b5bdd02" absoluteBounds="6.25, 4, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/QL_TKVLDataContext/DUYET" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1b55f674-d0d2-46a5-b078-28ea3a0e57e9" absoluteBounds="6.265, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ddc2b5f8-3625-4e9e-8a49-445695c20c94" absoluteBounds="6.25, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/QL_TKVLDataContext/HOSOUNGTUYEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b91c8c46-038b-46c1-8512-d9edf5e1d5cf" absoluteBounds="6.265, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f1385836-314b-4f0e-b881-84d9d9ccc862" absoluteBounds="0.75, 4, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/QL_TKVLDataContext/LOAICONGVIEC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="88ff5099-4516-49b3-8f2b-ed13f73d3b5c" absoluteBounds="0.765, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e4916ee-4ac8-451b-b6d0-e106c00a8de8" absoluteBounds="3.5, 8.25, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/QL_TKVLDataContext/NGUOIUNGTUYEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f4a8197e-a2b3-4ccc-b9ff-ad31472691be" absoluteBounds="3.515, 8.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 7.37653746153846); (3.125 : 7.00153746153846); (3.125 : 4.65465413411458); (3.5 : 4.65465413411458)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TKVLDataContext/DOANHNGHIEP/DOANHNGHIEP_BAIDANG" />
+      <nodes>
+        <classShapeMoniker Id="fa1c4f7f-da63-4523-94d5-fd64581598a7" />
+        <classShapeMoniker Id="8a66c4a4-b8f7-4b08-a132-74e0842e662d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.69314697265625); (5.79166666666667 : 4.69314697265625 : JumpStart); (5.95833333333333 : 4.69314697265625 : JumpEnd); (6.25 : 4.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TKVLDataContext/BAIDANG/BAIDANG_DUYET" />
+      <nodes>
+        <classShapeMoniker Id="8a66c4a4-b8f7-4b08-a132-74e0842e662d" />
+        <classShapeMoniker Id="c38b6136-063c-43a6-8f9c-6e459b5bdd02" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 13.6739005533854); (7.25 : 13.6739005533854); (7.25 : 5.3862939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TKVLDataContext/TK_Admin/TK_Admin_DUYET" />
+      <nodes>
+        <classShapeMoniker Id="fc27cf67-8744-4b39-8d43-82567f348df7" />
+        <classShapeMoniker Id="c38b6136-063c-43a6-8f9c-6e459b5bdd02" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 3); (4.5 : 1.63544840494792); (6.25 : 1.63544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TKVLDataContext/BAIDANG/BAIDANG_HOSOUNGTUYEN" />
+      <nodes>
+        <classShapeMoniker Id="8a66c4a4-b8f7-4b08-a132-74e0842e662d" />
+        <classShapeMoniker Id="ddc2b5f8-3625-4e9e-8a49-445695c20c94" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.08297403971354); (3.04166666666667 : 5.08297403971354 : JumpStart); (3.20833333333333 : 5.08297403971354 : JumpEnd); (3.5 : 5.08297403971354)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TKVLDataContext/LOAICONGVIEC/LOAICONGVIEC_BAIDANG" />
+      <nodes>
+        <classShapeMoniker Id="f1385836-314b-4f0e-b881-84d9d9ccc862" />
+        <classShapeMoniker Id="8a66c4a4-b8f7-4b08-a132-74e0842e662d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 8.25); (5.875 : 7.875); (5.875 : 2.10942460742187); (6.25 : 2.10942460742187)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_TKVLDataContext/NGUOIUNGTUYEN/NGUOIUNGTUYEN_HOSOUNGTUYEN" />
+      <nodes>
+        <classShapeMoniker Id="6e4916ee-4ac8-451b-b6d0-e106c00a8de8" />
+        <classShapeMoniker Id="ddc2b5f8-3625-4e9e-8a49-445695c20c94" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

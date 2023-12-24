@@ -1,0 +1,25 @@
+﻿@import url("http://fonts.googleapis.com/css?family=Neuton|Oswald");
+
+p span {
+    font: 700 4em/1 "Oswald", sans-serif;
+    letter-spacing: 0;
+    padding : 0.25em 0 0.325em;
+    display: block;
+    margin: 0 auto;
+    text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
+    background:
+        url("http://codetheword.io/wp-content/uploads/2023/11/rNPwjWM-animated-text-fill.png") repeat-y;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: anim 80s linear infinite;
+}
+
+@-webkit-keyframes anim{
+    0%{
+        background-position: 0% 50%;
+    }
+
+    100% {
+        background-position: 100% 50%;
+    }
+}

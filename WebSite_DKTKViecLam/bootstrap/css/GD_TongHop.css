@@ -1,0 +1,27 @@
+﻿body {
+    background-image:url(/Hinh//Background.jpg); 
+    background-size:cover;
+    font-size:16px;
+}
+
+#Wrapper{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-content:center;
+}
+
+.button-trangchu{
+    background: transparent;
+    background-color: black;
+    border: 1px solid #f5f5f5;
+    color: white;
+    border-top-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+}
+
+.button-trangchu:hover{
+      color:blue;
+}

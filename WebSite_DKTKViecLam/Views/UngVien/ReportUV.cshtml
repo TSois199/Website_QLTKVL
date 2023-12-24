@@ -1,0 +1,68 @@
+﻿@{
+    ViewBag.Title = "FeedbackUV";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Feedback_Style.css" rel="stylesheet" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Report Bài Đăng</title>
+</head>
+<body style="padding-top:10%">
+    <div class="container">
+        <form action="https://formspree.io/f/mwkdjnlk" method="POST">
+            <h2>REPORT BÀI ĐĂNG</h2>
+            <div class="row">
+                <div class="col-4">
+                    <label>Email ứng viên:</label>
+                </div>
+                <div class="col-8">
+                    <input type="email" name="Email ứng viên" value="@Session["emailUV"]" readonly>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Tên ứng viên:</label>
+                </div>
+                <div class="col-8">
+                    <input type="text" name="Tên ứng viên" value="@Session["tenUV"]" readonly>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Mã bài đăng:</label>
+                </div>
+                <div class="col-8">
+                    <input type="text" name="Mã bài đăng" value="@Session["mabaidang"]" readonly>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Tên bài đăng:</label>
+                </div>
+                <div class="col-8">
+                    <input type="text" name="Tên bài đăng" value="@Session["tenbaidang"]" readonly>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Nội dung report:</label>
+                </div>
+                <div class="col-8">
+                    <textarea rows="5" cols="60" name="Nội dung report"></textarea>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                    <button type="submit">Send</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

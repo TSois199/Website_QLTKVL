@@ -1,0 +1,74 @@
+﻿@{
+    ViewBag.Title = "Ứng tuyển công việc";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Feedback_Style.css" rel="stylesheet" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ỨNG TUYỂN CÔNG VIỆC</title>
+</head>
+<body style="padding-top:10%">
+    <div class="container">
+        <form action="https://formspree.io/f/mleqrool" method="POST">
+            <h2>ỨNG TUYỂN CÔNG VIỆC</h2>
+            <div class="row">
+                <div class="col-4">
+                    <label>Email ứng viên:</label>
+                </div>
+                <div class="col-8">
+                    <input type="email" name="Tên ứng viên" value="@Session["tenUV"]" readonly>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Ngày sinh:</label>
+                </div>
+                <div class="col-8">
+                    <input type="email" name="Ngày sinh" value="@Session["ngaysinh"]" readonly>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Tên ứng viên:</label>
+                </div>
+                <div class="col-8">
+                    <input type="text" name="Email ứng viên" value="@Session["emailUV"]" readonly>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>SĐT:</label>
+                </div>
+                <div class="col-8">
+                    <input type="text" name="SĐT" value="@Session["SDT"]" readonly>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Link CV:</label>
+                </div>
+                <div class="col-8">
+                    <input type="text" name="Link CV" value="@Session["linkCV"]">
+                    <input type="text" name="Tên bài đăng" value="@Session["tenbaidang"]" style="display:none">
+                    <input type="text" name="Mã bài đăng" value="@Session["mabaidang"]" style="display:none">
+                </div>
+                <div style="text-align:center">
+                    Bỏ CV vào Drive và copy đường link vào đây.Lưu ý chia sẽ quyền truy cập.
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                    <button type="submit">Nộp hồ sơ</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,113 @@
+﻿@{
+    ViewBag.Title = "QL_UngVien";
+    Layout = "~/Views/Shared/_LayoutPage_Ad.cshtml";
+}
+@using WebSite_DKTKViecLam.Models;
+@model List<NGUOIUNGTUYEN>
+
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<link href="~/bootstrap/css/TimKiem_Search.css" rel="stylesheet" />
+<div class="container-fluid" style="padding-left:140px;max-width:100%;overflow-x:auto">
+    <h2 class="text-center"><b>DANH SÁCH ỨNG VIÊN</b></h2>
+    <div class="row" style="padding-top: 10px; padding-bottom: 10px;">
+
+        <form class="example" action="/Admin/XL_TimKiemUV" style="margin:auto" method="post">
+            <div class="row">
+                <div class="col-3">
+                    <input type="text" placeholder="Tìm kiếm theo mã ứng viên" name="maUV">
+                </div>
+                <div class="col-3">
+                    <input type="text" placeholder="Tìm kiếm theo tên ứng viên" name="tenUV">
+                </div>
+                <div class="col-3">
+                    <input type="text" placeholder="Tìm kiếm theo email ứng viên" name="emailUV">
+
+                </div>
+                <div class="col-3">
+                    <button type="submit"><i class="fa fa-search"></i></button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="row justify-content-center">
+        <br>
+        <p>
+            <a href="/Admin/Them_UV"><input type="button" value="Thêm ứng viên mới" class="button-them "></a>
+        </p>
+        <table class="table table-hover table-bordered " style="border: 3px solid; border-color:black">
+            <thead style="color:white">
+                <tr style="background-color: black; text-align: center; font-weight: bold;">
+                    <th>
+                        MaNUT
+                    </th>
+                    <th>
+                        Họ Tên
+                    </th>
+                    <th>
+                        Địa Chỉ
+                    </th>
+                    <th>
+                        SDT
+                    </th>
+                    <th>
+                        Email
+                    </th>
+                    <th>
+                        CV_NUT
+                    </th>
+                    <th>
+                        Ngày Sinh
+                    </th>
+                    <th>
+                        Giới Tính
+                    </th>
+                    <th>
+                        Password_NUT
+                    </th>
+                    <th> Chức năng</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr style="text-align: center; font-weight: bold;">
+                        <td style="background-color:lightgray">
+                            @Html.DisplayFor(modelItem => item.MaNUT)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Hoten)
+                        </td>
+                        <td style="background-color:lightgray">
+                            @Html.DisplayFor(modelItem => item.Diachi)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SDT)
+                        </td>
+                        <td style="background-color:lightgray">
+                            @Html.DisplayFor(modelItem => item.Email)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CV_NUT)
+                        </td>
+                        <td style="background-color:lightgray">
+                            @Html.DisplayFor(modelItem => item.Ngaysinh)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Gioitinh)
+                        </td>
+                        <td style="background-color:lightgray">
+                            @Html.DisplayFor(modelItem => item.Password_NUT)
+                        </td>
+                        <td>
+                            <a href="/Admin/Chitiet_UV/@item.MaNUT"><input type="button" value="Chi Tiết Ứng Viên" class="button-them "></a>
+                            <a href="/Admin/Sua_UV/@item.MaNUT"><input type="button" value="Sửa Ứng Viên" class="button-them "></a>
+                            <a href="/Admin/Xoa_UngVien/@item.MaNUT"><input type="button" value="Xóa Ứng Viên" class="button-them "></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

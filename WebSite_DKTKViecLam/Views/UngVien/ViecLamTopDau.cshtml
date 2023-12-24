@@ -1,0 +1,62 @@
+﻿@model WebSite_DKTKViecLam.Models.ViecLamTopDauViewModel
+@{
+    Layout = "~/Views/Shared/_LayoutPage_NUT.cshtml";}
+
+<!DOCTYPE html>
+<style>
+   table {
+        width: 50%;
+        border-collapse: collapse;
+        border: 1px solid black;
+        margin-left:25%;
+    }
+
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 1px solid black;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+</style>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Việc Làm Top Đầu</title>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-2">
+                <a href="javascript:history.back()"><button class="btn btn-danger mt-3" style="width:100px"><b>Quay Lại </b></button></a>
+            </div>
+            <div class="col-8">
+                <h2>Những công việc nằm trong top 10 có nhiều bài đăng nổi bật nhất</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid" style="margin-top:40px;margin-bottom:20px;"> 
+        <table>
+            <tr>
+                <th>Tên Công Việc</th>
+                <th>Số Bài Đăng</th>
+            </tr>
+            @foreach (var item in Model.BaiDangCounts)
+            {
+                <tr>
+                    <td>@item.TenLoai</td>
+                    <td>@item.SoBaiDang</td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

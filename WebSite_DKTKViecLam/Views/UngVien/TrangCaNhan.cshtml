@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "TrangCaNhan";
+    Layout = "~/Views/Shared/_LayoutPage_NUT.cshtml";
+}
+@using WebSite_DKTKViecLam.Models
+@model List<NGUOIUNGTUYEN>
+<link href="~/bootstrap/css/button_hieuung.css" rel="stylesheet" />
+<h2>Thông Tin Cá Nhân</h2>
+
+<div class="row ">
+    <div class="row product-group p-3 bg-light">
+        @foreach (var s in Model)
+        {
+            <div class="card">
+                <div style="box-shadow:5px 5px 5px 2px #999999;">
+                    <div class="card-body">
+                        <h3><b style="color:green">Họ Tên: </b><span>@s.Hoten</span></h3><br />
+                        <h3><b style="color:green">Ngày sinh: </b><span id="ngaysinh"></span></h3><br />
+                        <h3><b style="color:green">Địa chỉ: </b><span>@s.Diachi</span></h3><br />
+                        <h3><b style="color:green">SĐT: </b><span>@s.SDT</span></h3><br />
+                        <h3><b style="color:green">Email: </b><span>@s.Email</span></h3><br />
+                        <h3><b style="color:green">Link CV: </b><span>@s.CV_NUT</span></h3><br />
+                        <h3><b style="color:green">Giới Tính: </b><span>@s.Gioitinh</span></h3><br />
+                    </div>
+                </div>
+            </div>
+                <script>
+                // Lấy ngày sinh từ dữ liệu
+                var ngaySinh = "@s.Ngaysinh.";
+
+                // Chuyển đổi ngày sinh thành đối tượng Date
+                var date = new Date(ngaySinh);
+
+                // Lấy thông tin ngày, tháng, năm
+                var ngay = date.getDate();
+                var thang = date.getMonth() + 1; // Month index trong JavaScript là từ 0 đến 11, nên cần +1
+                var nam = date.getFullYear();
+
+                // Định dạng ngày/tháng/năm
+                var ngayThangNam = ngay + "/" + thang + "/" + nam;
+
+                // Gán giá trị định dạng vào phần tử HTML
+                document.getElementById("ngaysinh").textContent = ngayThangNam;
+                </script>
+        }
+    </div>
+    <div class="row" style="text-align: center; font-weight: bold; font-size: 22px; ">
+            @foreach (var s in Model)
+            {
+                <div class="col-6">
+                    <a href="/UngVien/Sua_ThongTinCaNhan_UngVien/@s.MaNUT">
+                        <center><button class="codepro-custom-btn codepro-btn-12"><span>Sửa</span><span>Thông tin</span></button></center>
+                    </a>
+                </div>
+                <div class="col-6">
+                    <a href="/UngVien/Doi_MatKhau_UV/@s.MaNUT">
+                        <center><button class="codepro-custom-btn codepro-btn-12"><span>Đổi</span><span>Mật khẩu</span></button></center>
+                    </a>
+                </div>
+            }
+    </div>
+</div>
+
+

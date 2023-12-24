@@ -1,0 +1,52 @@
+﻿@model WebSite_DKTKViecLam.Models.NGUOIUNGTUYEN
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Đổi mật khẩu</title>
+</head>
+<body style="background-image:url(/Hinh//Background.jpg); background-size:cover; font-size:16px;color:white">
+    @using (Html.BeginForm())
+    {
+        <div id="Wrapper">
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal" id="form-luu">
+                <center><h1>Đổi mật khẩu</h1></center>
+                <hr />
+                @Html.ValidationSummary(true)
+                @Html.HiddenFor(model => model.MaNUT)
+                <center>
+                    <div class="form-group">
+                        <table>
+                            <tr>
+                                <td>Nhập mật khẩu mới:</td>
+                                <td>
+                                    @Html.EditorFor(model => model.Password_NUT, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.Password_NUT, "", new { @class = "text-danger" })
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="checkError">
+                        @Html.ValidationSummary()
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Đổi mật khẩu" class="button-luu " style=" width: 30%;height:30px" />
+                        </div>
+                    </div>
+                    <br />
+                    <h3><a href="javascript:history.back()" style="color:white;width:200px;height:50px"><input type="button" value="Quay Lại " class="button-quaylai"></a></h3>
+                </center>
+            </div>
+        </div>
+    }
+</body>
+</html>

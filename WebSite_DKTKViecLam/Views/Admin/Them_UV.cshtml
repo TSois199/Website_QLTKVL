@@ -1,0 +1,76 @@
+﻿@model WebSite_DKTKViecLam.Models.NGUOIUNGTUYEN
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/bootstrap/css/StyleDangky.css" rel="stylesheet" />
+<link href="~/bootstrap/css/App-DangKy.css" rel="stylesheet" />
+<link href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Thêm Ứng Viên</title>
+    <style>
+        .pointer {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid mt-3">
+        <div class="row" id="wrapper">
+            <form action="/Admin/Them_UV" method="post" style="margin-left:600px;" id="form-register-dn-uv">
+                <h2 style="text-align:center"><b>Thêm ứng viên</b></h2>
+                <div class="form-group">
+                    <div>Email:</div>
+                    <input type="email" class="form-input" id="email" placeholder="Nhập email" name="dkyemailuv" style="width:430px;color:white;">
+                </div>
+                <div class="form-group">
+                    <div>Mật khẩu:</div>
+                    <input type="password" class="form-input" id="pwd" placeholder="Nhập mật khẩu" name="dkymatkhauuv" style="width:430px;color:white;">
+                    <i id="eye" class="pointer far fa-eye" style="width:25.75px;margin-left:28px"></i>
+                </div>
+                <div class="form-group">
+                    <div>Xác nhận mật khẩu:</div>
+                    <input type="password" class="form-input" id="pwd" placeholder="Nhập lại mật khẩu" name="dkyxacnhanmatkhauuv" style="width:430px;color:white;">
+                    <i id="eye1" class="pointer far fa-eye" style="width:25.75px;margin-left:28px"></i>
+                </div>
+                <div class="form-group">
+                    <div>Họ và tên:</div>
+                    <input type="text" class="form-input" id="pwd" placeholder="Nhập họ tên" name="dkytenuv" style="width:430px;color:white;" />
+                </div>
+                <div class="form-group">
+                    <div>Địa Chỉ:</div>
+                    <input type="text" class="form-input" id="pwd" placeholder="Nhập địa chỉ" name="dkydiachiuv" style="width:430px;color:white;" />
+                </div>
+                <div class="form-group">
+                    <div>Số điện thoại:</div>
+                    <input type="text" class="form-input" id="pwd" placeholder="Nhập số điện thoại" name="dkysdtuv" style="width:430px;color:white;" />
+                </div>
+                <div class="form-group">
+                    <div>Giới tính:</div>
+                    <input type="text" class="form-input" id="pwd" placeholder="Nhập giới tính" name="dkygioitinhuv" style="width:430px;color:white;" />
+                </div>
+                <div class="form-group">
+                    <div>Ngày sinh:</div>
+                    <input type="date" class="form-input" id="pwd" placeholder="Nhập Ngày sinh" name="dkyngaysinhuv" style="width:430px;color:white;" />
+                </div>
+                <br />
+                <div class="col-md-12" style="color:white">
+                    @Html.ValidationSummary()
+                </div>
+                <div>
+                    <button type="submit" class="form-submit" style="color:white;margin-right:300px"><b>Thêm</b></button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+</html>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="~/bootstrap/js/App-DK-JS.js"></script>

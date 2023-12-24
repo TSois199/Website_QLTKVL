@@ -1,0 +1,86 @@
+﻿
+@{
+    ViewBag.Title = "UngTuyen_Home";
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Feedback_Style.css" rel="stylesheet" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Ứng tuyển công việc</title>
+</head>
+<body style="padding-top:10%">
+    <div class="container">
+        <form action="https://formspree.io/f/mzblqdod" method="POST">
+            <h2>Ứng tuyển công việc</h2>
+            <div class="row">
+                <div class="col-4">
+                    <label>Email ứng viên:</label>
+                </div>
+                <div class="col-8">
+                    <input type="email" name="Tên ứng viên">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Ngày sinh:</label>
+                </div>
+                <div class="col-8">
+                    <input type="date" name="Ngày sinh" style="width:360px">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Tên ứng viên:</label>
+                </div>
+                <div class="col-8">
+                    <input type="text" name="Email ứng viên">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>SĐT:</label>
+                </div>
+                <div class="col-8">
+                    <input type="text" name="SĐT">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Link CV:</label>
+                </div>
+                <div class="col-8">
+                    <input type="text" name="Link CV">
+                    <input type="text" name="Mã bài đăng" value="@Session["mabaidang"]" style="display:none">
+                    <input type="text" name="Tên bài đăng" value="@Session["tenbaidang"]" style="display:none">
+                </div>
+            </div>
+            <div style="text-align:center">
+                Bỏ CV vào Drive và copy đường link vào đây.Lưu ý chia sẽ quyền truy cập.
+            </div>
+            <br/>
+            @*<div class="row">
+            <div class="col-4">
+                <label>Link CV:</label>
+            </div>
+            <div class="col-8">
+                <input type="file" name="Link CV" accept=".pdf,.doc,.docx">
+                <input type="text" name="Mã bài đăng" value="@Session["mabaidang"]" style="display:none">
+            </div>
+        </div>*@
+            <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                    <button type="submit">Nộp hồ sơ</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+

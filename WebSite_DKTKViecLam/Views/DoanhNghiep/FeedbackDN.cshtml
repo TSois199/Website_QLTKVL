@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "FeedbackDN";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Feedback_Style.css" rel="stylesheet" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Feedback Doanh Nghiệp</title>
+</head>
+<body style="padding-top:10%">
+    <div>
+        <a href="javascript:history.back()"><button class="btn btn-danger mt-3" style="margin-left:100px;width:100px"><b>Quay Lại </b></button></a>
+    </div>
+    <div class="container">
+        <form action="https://formspree.io/f/xrgwverr" method="POST">
+            <h2>FEEDBACK DOANH NGHIỆP</h2>
+            <div class="row">
+                <div class="col-4">
+                    <label>Email Doanh Nghiệp:</label>
+                </div>
+                <div class="col-8">
+                    <input type="email" name="Email Doanh Nghiệp" value="@Session["emailDN"]" readonly>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Tên doanh nghiệp:</label>
+                </div>
+                <div class="col-8">
+                    <input type="text" name="Tên Doanh Nghiệp" value="@Session["tenDN"]" readonly>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4">
+                    <label>Feedback, góp ý:</label>
+                </div>
+                <div class="col-8">
+                    <textarea rows="5" cols="60" name="Feedback từ Doanh Nghiệp"></textarea>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4"></div>
+                <div class="col-8">
+                    <button type="submit">Send</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

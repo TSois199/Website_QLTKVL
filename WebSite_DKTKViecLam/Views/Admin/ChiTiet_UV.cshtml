@@ -1,0 +1,77 @@
+﻿@model WebSite_DKTKViecLam.Models.NGUOIUNGTUYEN
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ChiTiet_UV</title>
+</head>
+<body style="background-image:url(/Hinh//Background.jpg); background-size:cover; font-size:16px;color:white">
+    <div id="Wrapper">
+        <div class="form-horizontal" id="form-Chitiet">
+            <center><h4>THÔNG TIN ỨNG VIÊN</h4></center>
+            <hr />
+            <table class="table  table-bordered table-danger" style="background-color:white">
+                <tr style="background-color:black;">
+                    <td><div style="text-align:center">Họ và tên</div></td>
+                    <td style=" padding:30px;">
+                        <div>@Html.DisplayFor(model => model.Hoten)</div>
+                    </td>
+                </tr>
+                <tr style="background-color:black;">
+                    <td><div style="text-align:center">Địa Chỉ</div></td>
+                    <td style=" padding:30px;">
+                        <div>@Html.DisplayFor(model => model.Diachi)</div>
+                    </td>
+                </tr>
+                <tr style="background-color:black;">
+                    <td><div style="text-align:center">Số điện thoại</div></td>
+                    <td style=" padding:30px;">
+                        <div>@Html.DisplayFor(model => model.SDT)</div>
+                    </td>
+                </tr>
+                <tr style="background-color:black;">
+                    <td><div style="text-align:center">Email</div></td>
+                    <td style=" padding:30px;">
+                        <div>@Html.DisplayFor(model => model.Email)</div>
+                    </td>
+                </tr>
+                <tr style="background-color:black;">
+                    <td><div style="text-align:center">Link_CV</div></td>
+                    <td style=" padding:30px;">
+                        <div>
+                            @Html.DisplayFor(model => model.CV_NUT)
+                        </div>
+                    </td>
+                </tr>
+                <tr style="background-color:black;">
+                    <td><div style="text-align:center">Ngày sinh</div></td>
+                    <td style=" padding:30px;">
+                        <div>@Html.DisplayFor(model => model.Ngaysinh)</div>
+                    </td>
+                </tr>
+                <tr style="background-color:black;">
+                    <td><div style="text-align:center">Giới tính</div></td>
+                    <td style=" padding:30px;">
+                        <div>@Html.DisplayFor(model => model.Gioitinh)</div>
+                    </td>
+                </tr>
+                <tr style="background-color:black;">
+                    <td><div style="text-align:center">Mật khẩu</div></td>
+                    <td style=" padding:30px;">
+                        <div>@Html.DisplayFor(model => model.Password_NUT)</div>
+                    </td>
+                </tr>
+            </table>
+            <h3><a href="/Admin/QL_UngVien" style="color:white;width:200px;height:50px"><input type="button" value="Quay Lại " class="button-quaylai"></a></h3>
+        </div>
+    </div>
+    <p>
+    </p>
+</body>
+</html>

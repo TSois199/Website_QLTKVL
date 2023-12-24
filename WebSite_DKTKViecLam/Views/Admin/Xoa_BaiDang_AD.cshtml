@@ -1,0 +1,85 @@
+﻿@using WebSite_DKTKViecLam.Models;
+@model WebSite_DKTKViecLam.Models.BAIDANG
+<!DOCTYPE html>
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Style_QL.css" rel="stylesheet" />
+<link href="~/bootstrap/css/Textstyle.css" rel="stylesheet" />
+<link href="~/bootstrap/css/StyleText.css" rel="stylesheet" />
+<html ur;>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>XÓA BÀI ĐĂNG</title>
+</head>
+<body style="background-image:url(/Hinh//Background.jpg); background-size:cover;font-size:16px;">
+    <div class="container">
+        <div class="row" style="margin-top:10%;">
+            <h2 class="col-12 text-center glow-text" style="color:white"><b>BÀI ĐĂNG MÀ MUỐN XÓA</b></h2>
+            <form action="/Admin/Xoa_BaiDang_AD" method="post" style="max-width:100%;background: rgba(0,0,0,0.8);opacity:0.8;flex-grow:1;padding: 10px 15px 30px 10px;box-shadow: 0px 0px 17px 2px rgba(255, 255, 255, 0.8)  ;">
+                <div class="col-12 text-center">
+                    <input type="hidden" name="MaBD" value="@Model.MaBD" />
+                    <table class="table" border="3" style="color:white">
+                        <tr>
+                            <th>Mã bài đăng</th>
+                            <td>@Model.MaBD</td>
+                        </tr>
+                        <tr>
+                            <th>Tên bài đăng</th>
+                            <td>@Model.TenBD</td>
+                        </tr>
+                        <tr>
+                            <th>Ảnh bài đăng</th>
+                            <td>@Model.Anh_BD</td>
+                        </tr>
+                        <tr>
+                            <th>Mã doanh nghiệp</th>
+                            <td>@Model.MaDN</td>
+                        </tr>
+                        <tr>
+                            <th>Mã loại công việc </th>
+                            <td>@Model.Maloai</td>
+                        </tr>
+                        <tr>
+                            <th>Mô tả</th>
+                            <td>@Model.Mota</td>
+                        </tr>
+                        <tr>
+                            <th>Phúc lợi</th>
+                            <td>@Model.Phucloi</td>
+                        </tr>
+                        <tr>
+                            <th>Vị trí</th>
+                            <td>@Model.Vitri</td>
+                        </tr>
+                        <tr>
+                            <th>Kinh nghiệm</th>
+                            <td>@Model.Kinhnghiem</td>
+                        </tr>
+                        <tr>
+                            <th>Độ tuổi làm việc</th>
+                            <td>@Model.Dotuoilamviec</td>
+                        </tr>
+                        <tr>
+                            <th>Ngày đăng bài</th>
+                            <td>@Model.Ngaydangbai</td>
+                        </tr>
+                        <tr>
+                            <th>Yêu cầu</th>
+                            <td>@Model.Yeucau</td>
+                        </tr>
+                        <tr>
+                            <th>Trạng thái</th>
+                            <td>@Model.Trangthai_BD</td>
+                        </tr>
+                    </table>
+                    <button type="submit" class="btn btn-danger">XÓA</button>
+                    <a href="/Admin/QL_UngVien" class="btn btn-dark">CANCEL</a>
+                </div>
+            </form>
+        </div>
+</body>
+</html>
+
+
+
+

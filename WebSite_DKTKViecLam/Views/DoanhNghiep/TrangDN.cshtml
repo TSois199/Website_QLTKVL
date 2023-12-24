@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "TrangDN";
+    Layout = "~/Views/Shared/_LayoutPage_DN.cshtml";
+}
+
+@using WebSite_DKTKViecLam.Models;
+@model List<DOANHNGHIEP>
+
+<link href="~/bootstrap/css/button_hieuung.css" rel="stylesheet" />
+<h2 style="text-align:center">TRANG THÔNG TIN DOANH NGHIỆP</h2>
+
+<div class="row ">
+    <div class="row product-group p-3 bg-light">
+        @foreach (var s in Model)
+        {
+            <div class="card">
+                <div style="box-shadow:5px 5px 5px 2px #999999;">
+                    <div class="card-body">
+                        <h3><b style="color:green">Tên doanh nghiệp: </b><span>@s.TenDN</span></h3><br />
+                        <h3><b style="color:green">Năm thành lập: </b><span>@s.Namthanhlap</span></h3><br />
+                        <h3><b style="color:green">Địa chỉ: </b><span>@s.Diachi</span></h3><br />
+                        <h3><b style="color:green">SĐT: </b><span>@s.SDT</span></h3><br />
+                        <h3><b style="color:green">Email: </b><span>@s.Email</span></h3><br />
+                        <h3><b style="color:green">Tỉnh thành </b><span>@s.Tinhthanh</span></h3><br />
+                    </div>
+                </div>
+            </div>
+
+        }
+    </div>
+
+    <div class="row" style="text-align: center; font-weight: bold; font-size: 22px; ">
+        @foreach (var s in Model)
+        {
+            <div class="col-6">
+                <a href="/DoanhNghiep/Sua_ThongTin_DN/@s.MaDN">
+                    <center><button class="codepro-custom-btn codepro-btn-12"><span>Sửa</span><span>Thông tin</span></button></center>
+                </a>
+            </div>
+            <div class="col-6">
+                <a href="/DoanhNghiep/Doi_MatKhau_DN/@s.MaDN">
+                    <center><button class="codepro-custom-btn codepro-btn-12"><span>Đổi</span><span>Mật khẩu</span></button></center>
+                </a>
+            </div>
+        }
+    </div>
+</div>
+
+
+
